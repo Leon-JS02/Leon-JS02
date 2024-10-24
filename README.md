@@ -35,7 +35,7 @@
 ### 🚀 What Am I Up To?
 
 - 🔍 Currently **learning Rust** and expanding my skills in system programming.
-- 🎮 Currently contributing to an [ETL pipeline for tracking **game releases** across multiple platforms](https://github.com/mehrdadhalali/Games-Release-Tracker).
+- 🎮 Currently contributing to an [ETL pipeline for tracking **game releases** across multiple platforms](https://github.com/Leon-JS02/Games-Release-Tracker).
 - 😔 More than likely have many forgotten side-projects.
 
 ---
