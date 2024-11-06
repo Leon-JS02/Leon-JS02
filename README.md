@@ -35,7 +35,7 @@
 ### 🚀 What Am I Up To?
 
 - 🔍 Currently **learning Rust** and expanding my skills in system programming.
-- 🎮 Currently contributing to an [ETL pipeline for tracking **game releases** across multiple platforms](https://github.com/Leon-JS02/Games-Release-Tracker).
+- 🎮 Currently developing a web app to [track and analyse vinyl collections](https://github.com/Leon-JS02/VinylVault).
 - 😔 More than likely have many forgotten side-projects.
 
 ---
