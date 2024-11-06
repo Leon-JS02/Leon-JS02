@@ -35,6 +35,7 @@
 ### 🚀 What Am I Up To?
 
 - 🔍 Currently **learning Rust** and expanding my skills in system programming.
+- 🌿 Currently **learning Spring Boot** to develop Java-based web applications.
 - 🎮 Currently developing a web app to [track and analyse vinyl collections](https://github.com/Leon-JS02/VinylVault).
 - 😔 More than likely have many forgotten side-projects.
 
