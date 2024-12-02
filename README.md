@@ -1,6 +1,6 @@
 # Hello, I'm Leon 🌴
 
-**Trainee Data/Software Engineer** | **Graduate Computer Science Student**
+**Junior Data Engineer** | **Graduate Computer Science Student**
 
 ---
 
